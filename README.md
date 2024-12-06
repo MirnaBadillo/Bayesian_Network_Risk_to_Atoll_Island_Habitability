@@ -15,7 +15,7 @@ To run this program R and the bnlearn package are required. This project consist
 
 The CPTs for the Habitability Pillars and Risk to Male Habitability nodes are filled in a deterministic way. A probability of one is assigned to the assessed risk level (Duvat et al. 2021) and a probability of zero with the other levels.
 
-6) Build the BN model and perform inference: Run BN_Risk_to_Male_Habitability.R to built the Bayesian Network model and perform inference using the Likelihood Weighting method.
+6) Build the BN model and perform inference: Run BN_Risk_to_Habitability.R to built the Bayesian Network model and perform inference using the Likelihood Weighting method.
    
 This BN model is applied to Male' atoll island. The example queries provided in this project allow for risk assessment and identification of risk conditions (inverse analysis).  
 
