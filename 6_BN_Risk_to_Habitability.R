@@ -108,7 +108,7 @@ viewer(net,
          clusters = list(
            list(label = "Risk criteria",
                 shape = "icon",
-                icon = list(code = "f10c", color = "black", background = "lightblue"),
+                icon = list(code = "f10c", color = "#e91e63", background = "lightblue"),
                 nodes = list("Coastal_erosion","Flooding","Rainwater","Groundwater","Desalinisation", "Reef_fish","Tuna", "Crops", "Loss_sett", "Loss_crit_inf", "Loss_transp", "Tuna_fish_rev", "Tourism_rev")),
            
            list(label = "Habitability pillars",
