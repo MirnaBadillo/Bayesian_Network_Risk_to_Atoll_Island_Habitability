@@ -1,4 +1,4 @@
 # Path config
 
-# Specify the path for the working space
-base_path <- "D:/Documents/BN_Risk_to_habitability/"
+# Specify the path of your workspace
+base_path <- "D:/Documents/Bayesian_Network_Risk_to_Atoll_Island_Habitability/"
