@@ -22,5 +22,5 @@ This BN model is applied to Male' atoll island. The example queries provided in 
 The functions used to perform queries are in the [Queries_LW_method](./Queries_LW_method.R) script.
 
 Necessary packages:
-- Bayesian Network development [bnlearn], [bnviewer]
-- Plots [ggplot2], [RColorBrewer], [cowplot], [patchwork]
+- Bayesian Network development [bnlearn](https://www.bnlearn.com/) and [bnviewer](https://cran.r-project.org/web/packages/bnviewer/bnviewer.pdf)
+- Plotting utilities [ggplot2](https://ggplot2.tidyverse.org/), [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html), [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html) and [patchwork](https://cran.r-project.org/web/packages/patchwork/index.html)
