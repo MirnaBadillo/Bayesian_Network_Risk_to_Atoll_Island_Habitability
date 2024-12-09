@@ -7,7 +7,7 @@ rm(list=ls())
 # Paths to import modules
 #setwd(dirname(rstudioapi::getActiveDocumentContext()$path))  # For RStudio users
 
-source("Path_config.R")
+source("1_Path_config.R")
 
 source(paste0(base_path, "Module_Optimization_functions.R"))
 
