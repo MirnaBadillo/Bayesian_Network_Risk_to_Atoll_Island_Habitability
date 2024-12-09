@@ -47,6 +47,3 @@ for (i in 1:length(Risk_to_MALE_Habitability_levels)) {
   
   return(Risk_to_MALE_Habitability_array)
 }
-
-
-#Risk_to_MALE_Habitability_array <- Risk_to_MALE_Habitability_array(Risk_to_MALE_Habitability_levels,Risk_to_Land_levels, Risk_to_freshwater_levels, Risk_to_Foodsupply_levels, Risk_to_Settlement_levels, Risk_to_Economic_opportunities_levels) 
